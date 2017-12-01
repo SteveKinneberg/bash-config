@@ -1,0 +1,6 @@
+# Ignore editor temp files and backup files
+*~
+*.bak
+*.swp.
+.\#*
+\#*\#
